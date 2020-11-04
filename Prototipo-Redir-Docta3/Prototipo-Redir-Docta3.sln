@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototipo-Redir-Docta3", "Prototipo-Redir-Docta3\Prototipo-Redir-Docta3.csproj", "{89DD3757-3494-442E-887E-080DEFAAC904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DD3757-3494-442E-887E-080DEFAAC904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DD3757-3494-442E-887E-080DEFAAC904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DD3757-3494-442E-887E-080DEFAAC904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DD3757-3494-442E-887E-080DEFAAC904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A98A94B-CCA8-4E6F-90E0-019DB60D4E07}
+	EndGlobalSection
+EndGlobal

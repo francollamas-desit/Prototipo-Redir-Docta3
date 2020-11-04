@@ -1,0 +1,16 @@
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\Prototipo-Redir-Docta3.deps.json
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\Prototipo-Redir-Docta3.runtimeconfig.json
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\Prototipo-Redir-Docta3.runtimeconfig.dev.json
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\Prototipo-Redir-Docta3.dll
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\bin\Release\netcoreapp2.2\Prototipo-Redir-Docta3.pdb
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.csprojAssemblyReference.cache
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.RazorAssemblyInfo.cache
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.RazorAssemblyInfo.cs
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.AssemblyInfoInputs.cache
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.AssemblyInfo.cs
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.RazorTargetAssemblyInfo.cache
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.dll
+C:\Users\Franco\Documents\Desit\Software\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\Prototipo-Redir-Docta3\obj\Release\netcoreapp2.2\Prototipo-Redir-Docta3.pdb
