@@ -27,10 +27,10 @@ namespace Prototipo_Redir_Docta3.Services
             {
                 // Set the TcpListener on port 8000.
                 Int32 port = 8000;
-                IPAddress localAddr = IPAddress.Parse("127.0.0.1");
+                //IPAddress localAddr = IPAddress.Parse("127.0.0.1");
 
                 // TcpListener server = new TcpListener(port);
-                server = new TcpListener(localAddr, port);
+                server = new TcpListener(IPAddress.Any, port);
 
                 // Start listening for client requests.
                 server.Start();
